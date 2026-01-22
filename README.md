@@ -44,30 +44,35 @@
 
 ---
 
-##Feature Projects
-🚨 G-secure – Password Management & Cybersecurity Tool
-📝 SaveBook – Modern Note-Taking & Knowledge Management
+🔧 Featured Projects
 
+🚨 G-secure – Password management & cybersecurity tool
 
-🛠️ For Developers ( Red Nichiran user )
+📝 SaveBook – Modern note-taking & knowledge management platform
+
+🛠️ For Developers (Red Nichiran User)
+
 Got a cool idea? Want to build something awesome together?
-I'm always open to collaboration, open-source contributions, or even techie banter.
-PRs, issues, forks — feel free to dive in!
+I’m always open to collaboration, open-source contributions, and tech discussions.
+
+PRs, issues, and forks — feel free to dive in!
 
 🤓 Fun Facts
-think about thunderBolt in infinity castle
 
-🛠️ I love building stuff that challenges the status quo
+Think about Thunderbolt in an Infinity Castle ⚡
 
-🧠 Always learning—suggest a tech/tool, and I'll probably try it by tomorrow
+🛠️ I love building things that challenge the status quo
 
-☕ Code + hollow purple = productivity overload
+🧠 Always learning — suggest a tech/tool, and I’ll probably try it by tomorrow
 
+☕ Code + Hollow Purple = productivity overload
 
 👾 For Developers Only
-If you smiled reading this, we should definitely talk.
 
-Thanks for dropping by -- let's build something extraordinary🤞
+If you smiled while reading this, we should definitely talk 😄
+
+Thanks for stopping by — let’s build something extraordinary 🤞✨
+
 ### 📊 GitHub Stats:
 
 
