@@ -79,10 +79,10 @@
 ## 🏆 Open Source Programs
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Apertre-2025-blue?style=for-the-badge" />
+  <!-- <img src="https://img.shields.io/badge/Apertre-2025-blue?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/GSSoC-2025-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ECWoC-2026-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSCWoC-2026-purple?style=for-the-badge" />
+  <!-- <img src="https://img.shields.io/badge/DSCWoC-2026-purple?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/Apertre-3.0-red?style=for-the-badge" />
 </p>
 
