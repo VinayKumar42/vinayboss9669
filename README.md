@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Vinay kumar</h1>
 <h3 align="center">Future software developer in the making… Of course! With a sip of Java ☕!!</h3>
 
@@ -68,7 +67,6 @@
   <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -78,34 +76,50 @@
 
 ---
 
+## 🏆 Open Source Programs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Apertre-2025-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSSoC-2025-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ECWoC-2026-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSCWoC-2026-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apertre-3.0-red?style=for-the-badge" />
+</p>
+
+---
+
 🔧 Featured Projects
 
-🚨 G-secure – Password management & cybersecurity tool
+🚨 **G-secure** – Password management & cybersecurity tool  
+📝 **SaveBook** – Modern note-taking & knowledge management platform  
 
-📝 SaveBook – Modern note-taking & knowledge management platform
+---
 
 🛠️ For Developers (Red Nichiran User)
 
-Got a cool idea? Want to build something awesome together?
-I’m always open to collaboration, open-source contributions, and tech discussions.
+Got a cool idea? Want to build something awesome together?  
+I’m always open to collaboration, open-source contributions, and tech discussions.  
 
-PRs, issues, and forks — feel free to dive in!
+PRs, issues, and forks — feel free to dive in!  
+
+---
 
 🤓 Fun Facts
 
-Think about Thunderbolt in an Infinity Castle ⚡
+Think about Thunderbolt in an Infinity Castle ⚡  
+🛠️ I love building things that challenge the status quo  
+🧠 Always learning — suggest a tech/tool, and I’ll probably try it by tomorrow  
+☕ Code + Hollow Purple = productivity overload  
 
-🛠️ I love building things that challenge the status quo
-
-🧠 Always learning — suggest a tech/tool, and I’ll probably try it by tomorrow
-
-☕ Code + Hollow Purple = productivity overload
+---
 
 👾 For Developers Only
 
-If you smiled while reading this, we should definitely talk 😄
+If you smiled while reading this, we should definitely talk 😄  
 
-Thanks for stopping by — let’s build something extraordinary 🤞✨
+Thanks for stopping by — let’s build something extraordinary 🤞✨  
+
+---
 
 📊 GitHub Stats
 
@@ -117,5 +131,3 @@ Thanks for stopping by — let’s build something extraordinary 🤞✨
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayboss9669&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
-
-
